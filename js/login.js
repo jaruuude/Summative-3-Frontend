@@ -1,4 +1,4 @@
-const server = "http://localhost:3000";
+const server = "https://summative-3-frontend.vercel.app";
 const loginBtn = document.getElementById("login-button-login-page");
 const usernameInput = document.getElementById("username-input-login");
 const passwordInput = document.getElementById("password-input-login");
